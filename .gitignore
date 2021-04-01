@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# custom
+
+jupyter-notebooks/config/
+jupyter-notebooks/DestinyTemp/
+DestinyTemp/
+
+
 # Distribution / packaging
 .Python
 build/
